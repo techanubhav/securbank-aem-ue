@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/securbank-cba/:/",
-    "/content/securbank-cba/placeholders:/placeholders.json",
+    "/content/securbank/:/",
+    "/content/securbank/placeholders:/placeholders.json",
     "/graphql:/graphql",
-    "/content/securbank-cba.resource/icons/:/icons/"
+    "/content/securbank.resource/icons/:/icons/"
   ]
 }
