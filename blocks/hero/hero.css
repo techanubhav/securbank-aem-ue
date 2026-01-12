@@ -26,7 +26,7 @@ main .hero .hero-body {
 main .hero h1 {
   max-width: 1280px;
   margin: 106px auto 0;
-  color: white;
+  color: pink;
   font: normal normal normal 48px/52px adobe-clean, sans-serif;
 }
 
